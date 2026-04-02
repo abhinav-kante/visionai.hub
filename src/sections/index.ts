@@ -1,0 +1,9 @@
+export { HeroSection } from './HeroSection';
+export { CapabilitiesSection } from './CapabilitiesSection';
+export { ObjectDetectionSection } from './ObjectDetectionSection';
+export { FaceAnalysisSection } from './FaceAnalysisSection';
+export { HandPoseSection } from './HandPoseSection';
+export { SentimentSection } from './SentimentSection';
+export { PerformanceSection } from './PerformanceSection';
+export { UseCasesSection } from './UseCasesSection';
+export { CTASection } from './CTASection';
